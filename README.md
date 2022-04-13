@@ -1,2 +1,2 @@
-# Vertical-Slider
-Vertical Slider made with css and vanilla javascript 
+# Slider
+Slider made with css and vanilla javascript 
